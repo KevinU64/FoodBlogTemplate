@@ -1,0 +1,103 @@
+.menu{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin-top: 15px;
+}
+.contenido{
+    position:absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 850px;
+}
+.buscar{
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    width: 110px;
+    padding: 10px 10px;
+    border-radius: 15px;
+    box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.16);
+}
+.opciones{
+    display: flex;
+    justify-content:space-around;
+    width: 500px;
+}
+.opciones a{
+    text-decoration: none;
+    color: var(--negro);
+    font-weight:bold;
+}
+.opciones a:hover{
+    color: var(--naranja-rojo);
+}
+.contenido-nombre{
+    display: flex;
+    justify-content: center;
+}
+.nombre{
+    justify-content: center;
+    color: var(--blanco);
+}
+.nombre h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 75px;
+    width: 700px;
+    text-align: center;
+}
+.caracteristica{
+    display: flex;
+    justify-content: center;
+}
+.caracteristica-contenedor{
+    display: flex;
+    justify-content:space-between;
+    width: 400px;
+    padding: 20px 0px;
+}
+.caracteristica-contenedor p{
+    font-size: 13px;
+}
+.caracteristica-contenedor img{
+    width: 15px;
+    height: 15px;
+    padding: 0px 6px;
+}
+.boton{
+    display: flex;
+    justify-content: center;
+}
+.boton p{
+    color: var(--blanco);
+    background-color: var(--naranja-rojo);
+    width: 100px;
+    padding: 7px 7px;
+    text-align: center;
+    font-size: 13px;
+}
+.servicio{
+    display: flex;
+}
+.tiempo{
+    display: flex;
+}
+.persona{
+    display: flex;
+}
+.inicio{
+    display: flex;
+    justify-content: center;
+}
+.fondo-plato{
+    background: url(https://i26.servimg.com/u/f26/20/31/61/35/backgr10.jpg);
+    position:absolute;
+    width: 100%;
+    height:650px;
+    background-size:cover;
+    margin-top: 70px;
+}
+.plato-inicio{
+    display: flex;
+}

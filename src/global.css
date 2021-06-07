@@ -1,0 +1,10 @@
+:root{
+    --negro:#2D2D2D;
+    --naranja-rojo:#FE4A51;
+    --blanco:#FFFFFF;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+}
