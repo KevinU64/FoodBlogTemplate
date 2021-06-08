@@ -1,0 +1,161 @@
+/*Author*/
+.Au{
+    font-family: 'Playfair Display', serif;    
+    position: absolute;
+    width: 61px;
+    height: 24px;
+    left: 1035px;
+    top: 976px;
+    
+    
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 100.9%;
+    
+    
+    color: #2D2D2D;
+    
+    }
+    .line3{
+        position: absolute;
+        width: 270px;
+        height: 0px;
+        left: 1035px;
+        top: 1010px;
+        
+        border: 1px solid #020202; 
+    }
+    .line4{
+        position: absolute;
+        width: 51px;
+        height: 0px;
+        left: 1035px;
+        top: 1010px;
+        
+        border: 1px solid #FE4A51; 
+    }
+    .ig{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        left: 1070px;
+        top: 1047px;
+        
+        background: url(https://i70.servimg.com/u/f70/20/33/45/13/image_15.png);
+        filter: drop-shadow(0px 1px 10px rgba(0, 0, 0, 0.15));
+    }
+    .NameA{
+    position: absolute;
+    width: 130px;
+    height: 40px;
+    left: 1105px;
+    top: 1235px;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 100.9%;
+    
+    
+    color: #2D2D2D;
+    
+    }
+    .inf {
+        position: absolute;
+        width: 219px;
+        height: 70px;
+        left: 1061px;
+        top: 1280px;
+        
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 138.9%;
+        
+        text-align: center;
+        
+        color: rgba(45, 45, 45, 0.6); 
+    }
+    /* follow me + imagen*/
+    
+    .one{
+        position: absolute;
+        width: 288px;
+        height: 255px;
+        left: 0px;
+        top: 2894px;
+        
+        background:  #2D2D2D;
+    }
+    .two{
+        position: absolute;
+        width: 288px;
+        height: 255px;
+        left: 288px;
+        top: 2894px;
+        
+        background:  #2D2D2D;
+    }
+    .three{
+        position: absolute;
+        width: 288px;
+        height: 255px;
+        left: 576px;
+        top: 2894px;
+        
+        background:  #2D2D2D;
+    }
+    .four{
+        position: absolute;
+        width: 288px;
+        height: 255px;
+        left: 864px;
+        top: 2894px;
+        
+        background:  #2D2D2D;
+    }
+    .five{
+        position: absolute;
+        width: 288px;
+        height: 255px;
+        left: 1152px;
+        top: 2894px;
+        
+        background:  #2D2D2D;
+    }
+    .ellipse{
+        position: absolute;
+    width: 138px;
+    height: 138px;
+    left: 651px;
+    top: 2953px;
+    
+    background: rgba(248, 241, 241, 0);
+    }
+    .Follow{
+    position: absolute;
+    width: 64px;
+    height: 15px;
+    left: 685px;
+    top: 2983px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 108.9%;
+    
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+    .inst{
+    position: absolute;
+    width: 101px;
+    height: 20px;
+    left: 670px;
+    top: 3022px;
+    }    
