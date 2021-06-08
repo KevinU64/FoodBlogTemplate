@@ -2,6 +2,7 @@ import React from 'react';
 import Food1 from './components/Food1';
 import Food3 from './components/Food3';
 import Food2 from './components/Food2';
+import Food4 from './components/Food4';
 import Catagoris from './components/Catagoris';
 import getContentCatagoris from './components/assets/getContentCatagoris';
 import TrandingRecipes from './components/TrandingRecipes';
@@ -20,6 +21,9 @@ export default function App(){
       }
       {
         <Food2 />
+      }
+      {
+        <Food4 />
       }
       {
         data.map((component)=>{

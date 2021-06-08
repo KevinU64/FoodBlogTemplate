@@ -1,0 +1,72 @@
+.Ad{
+    width: 47px;
+    height: 36px;
+    top: 1698px;
+    left: 1147px;
+    position: absolute;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 100.9%;
+    color:rgba(255, 255, 255, 1);
+    
+
+}
+.img{
+    position: absolute;
+    width: 270px;
+    height: 266px;
+    left: 1035px;
+    top: 1583px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+}
+.pie{
+    position: absolute;
+    width: 1440px;
+    height: 291px;
+    left: 0px;
+    top: 3249px;
+}
+
+.foot1{
+    
+    position: absolute;
+    width: 270px;
+    height: 118px;
+    left: 135px;
+    top: 3249px;
+
+
+}
+.foot2{
+    position: absolute;
+    width: 103px;
+    height: 120px;
+    left: 435px;
+    top: 3249px;
+     
+}
+.foot3 {
+    position: absolute;
+    width: 123px;
+    height: 120px;
+    left: 756px;
+    top: 3249px;
+
+}
+.foot4{
+    position: absolute;
+    width: 270px;
+    height: 128px;
+    left: 1035px;
+    top: 3249px;
+    
+ 
+}
+.copyrite{
+    position: absolute;
+    width: 1440px;
+    height: 63px;
+    left: -1035px;
+    top: 173px;
+}
