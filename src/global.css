@@ -8,3 +8,49 @@
     padding: 0px;
     font-family: 'Lato', sans-serif;
 }
+.titulotr{
+    position: absolute;
+    left: 1035px;
+    top: 2256px;
+    font-family: 'Playfair Display', serif; 
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 100.9%;
+}
+.lineatr{
+    display: flex;
+    position: absolute;
+    width: 270px;
+    height: 0px;
+    left: 1035px;
+    top: 2301px;
+}
+.lineatr p{
+    color: #FE4A51;
+}
+.posicion1{
+    position: absolute;
+    left: 1025px;
+    top: 2326px;
+}
+.posicion2{
+    position: absolute;
+    left: 1025px;
+    top: 2406px;
+}
+.posicion3{
+    position: absolute;
+    left: 1025px;
+    top: 2486px;
+}
+.posicion4{
+    position: absolute;
+    left: 1025px;
+    top: 2566px;
+}
+.posicion5{
+    position: absolute;
+    left: 1025px;
+    top: 2647px;
+}

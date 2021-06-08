@@ -1,0 +1,55 @@
+*{
+    font-family: 'Playfair Display', serif; 
+    margin: 0;
+    padding: 0;
+}
+.Contenedor{
+    align-items: center;
+    display: flex;
+    position: absolute;
+    width: 870px;
+    height: 257px;
+    left: 135px;
+    top: 1887px;
+    background: #FFE5E6;
+}
+.Contenedor p{
+    font-family: 'Playfair Display', serif; 
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 108.9%;
+    text-align: center;
+}
+.Contenedor img{
+    display: flex;
+    width: 130px;
+    height: 130px;
+    border-radius: 100%;
+    box-shadow: 0px 1px 25px rgba(0, 0, 0, 0.15);
+}
+.parte1{
+    max-width: 130px;
+    height: 177px;
+    margin: 25px;
+}
+.parte2{
+    max-width: 130px;
+    height: 177px;
+    margin: 16px;
+}
+.parte3{
+    max-width: 130px;
+    height: 177px;
+    margin: 23px;
+}
+.parte4{
+    max-width: 130px;
+    height: 177px;
+    margin: 16px;
+}
+.parte5{
+    max-width: 130px;
+    height: 177px;
+    margin: 24px;
+}
